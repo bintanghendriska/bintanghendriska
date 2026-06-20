@@ -29,7 +29,7 @@
 - 🌿 Sedang mengerjakan **HerbalVerify AI** — sistem verifikasi klaim jamu berbasis *GraphRAG*
 - 🧠 Membangun **SAPA** — asisten *multi-agent* dengan LangGraph
 - 🎣 Iseng-iseng punya mimpi bikin e-commerce niche *fishing tackle*
-- 📫 Hubungi saya: **EMAIL-KAMU**
+- 📫 Hubungi saya: **bintanghendriska39@gmail.com**
 
 ## 🛠️ Tech Stack
 
