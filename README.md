@@ -29,7 +29,6 @@
 - 🌿 Sedang mengerjakan **HerbalVerify AI** — sistem verifikasi klaim jamu berbasis *GraphRAG*
 - 🧠 Membangun **SAPA** — asisten *multi-agent* dengan LangGraph
 - 🎣 Iseng-iseng punya mimpi bikin e-commerce niche *fishing tackle*
-- 📫 Hubungi saya: **bintanghendriska39@gmail.com**
 
 ## 🛠️ Tech Stack
 
@@ -56,16 +55,6 @@
 ![Streak](https://streak-stats.demolab.com?user=bintanghendriska&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bintanghendriska&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-## 🐍 Kontribusi
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/bintanghendriska/bintanghendriska/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
