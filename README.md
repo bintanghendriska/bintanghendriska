@@ -6,7 +6,7 @@
 
 <!-- Ganti GIF di atas dengan GIF favoritmu. Cari di https://giphy.com lalu klik kanan "Copy image address" -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=USERNAME-KAMU&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bintanghendriska&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Informatics Engineering Student 🎓 | AI &amp; NLP Enthusiast 🤖 | Backend Developer 💻
 
@@ -51,11 +51,11 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME-KAMU&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=bintanghendriska&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com?user=USERNAME-KAMU&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=bintanghendriska&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME-KAMU&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bintanghendriska&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/USERNAME-KAMU/USERNAME-KAMU/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/bintanghendriska/bintanghendriska/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -71,6 +71,6 @@
 
 <div align="center">
 
-⭐️ From [USERNAME-KAMU](https://github.com/USERNAME-KAMU)
+⭐️ From bintanghendriska(https://github.com/bintanghendriska)
 
 </div>
