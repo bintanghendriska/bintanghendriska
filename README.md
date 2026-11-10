@@ -16,8 +16,8 @@
 
 <p align="center">
   <!-- GANTI: isi link LinkedIn dan email kamu -->
-  <a href="https://www.linkedin.com/in/USERNAME-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:EMAIL@kamu.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/bintang-hendriska-valen/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:bintanghendriska39@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=bintanghendriska&label=Profile%20views&color=2563eb&style=for-the-badge" alt="Profile views"/>
 </p>
 
