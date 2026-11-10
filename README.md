@@ -1,6 +1,7 @@
 <!--
   Catatan: semua komentar seperti ini TIDAK tampil di GitHub.
   Bagian bertanda "GANTI" masih perlu kamu sesuaikan.
+
 -->
 
 <!-- ===================== HEADER ===================== -->
@@ -106,8 +107,8 @@ class Bintang:
   lalu ganti "github-readme-stats.vercel.app" di bawah dengan domain Vercel milikmu.
 -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bintanghendriska&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bintanghendriska&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats-xi-sooty-42.vercel.app/api?username=bintanghendriska&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats-xi-sooty-42.vercel.app/api/top-langs/?username=bintanghendriska&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" alt="Top languages"/>
 </p>
 
 <p align="center">
