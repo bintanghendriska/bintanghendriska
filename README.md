@@ -32,7 +32,7 @@ class Bintang:
     organisasi = "Kepala Divisi Riset & Teknologi — HIMATIF UIR"
     fokus     = ["Natural Language Processing", "RAG & Multi-Agent", "Deep Learning"]
     membangun = ["Web app (Laravel, React, Vue)", "Mobile app (React Native)"]
-    sekarang  = "Menjajaki deep learning untuk prediksi titik panas di Riau 🔥"  # GANTI kalau topik skripsi sudah final
+    sekarang  = "Membangun KampusHub (Aplikasi Ticketing)"
 ```
 
 ## 🛠️ Tech Stack
